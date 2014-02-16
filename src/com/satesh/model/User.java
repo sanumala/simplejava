@@ -1,3 +1,12 @@
+/*
+ * User.java
+ * Created on : 2/15/14 7:35 PM
+ * Author : satesh @ javaj2ee.com
+ * License : Copyright 2014 Its OpenSource.
+ *         : Please feel free to Share!
+ *         : If you like it fork me @ http://github.com/sanumala
+ */
+
 package com.satesh.model;
 
 /**
@@ -25,4 +34,15 @@ public class User {
     public int getAge() {
         return age;
     }
+
+    private void printDetails() {
+        System.out.println("First Name :" + this.getFirstName() + " Last Name :" + this.getLastName() + " Age: " + this.getAge());
+    }
+
+    public static void main(String[] args) {
+        User user = new User("Satesh", "Anumala", 33);
+        user.printDetails();
+    }
+
+
 }
