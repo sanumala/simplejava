@@ -1,6 +1,6 @@
 /*
  * User.java
- * Created on : 2/15/14 7:35 PM
+ * Created on : 2/15/14 7:46 PM
  * Author : satesh @ javaj2ee.com
  * License : Copyright 2014 Its OpenSource.
  *         : Please feel free to Share!
@@ -36,7 +36,8 @@ public class User {
     }
 
     private void printDetails() {
-        System.out.println("First Name :" + this.getFirstName() + " Last Name :" + this.getLastName() + " Age: " + this.getAge());
+        System.out.println("First Name :" + this.getFirstName() + " Last Name :" + this.getLastName()
+                + " Age: " + this.getAge());
     }
 
     public static void main(String[] args) {
