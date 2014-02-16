@@ -1,6 +1,6 @@
 <component name="CopyrightManager">
   <copyright>
-    <option name="notice" value="/****************************************************************&#10; *  &amp;#36;name&#10; *  Created on : &amp;#36;today&#10; *  Author : sanumala @ javaj2ee.com&#10; *  License : Copyright &amp;#36;today.year Its OpenSource. &#10; *          : Please feel free to Share!&#10; *          : If you like it fork me @ http://github.com/sanumala&#10; *****************************************************************/" />
+    <option name="notice" value="&amp;#36;file.fileName&#10;Created on : &amp;#36;today&#10;Author : &amp;#36;username @ javaj2ee.com&#10;License : Copyright &amp;#36;today.year Its OpenSource. &#10;        : Please feel free to Share!&#10;        : If you like it fork me @ http://github.com/sanumala" />
     <option name="keyword" value="Copyright" />
     <option name="allowReplaceKeyword" value="" />
     <option name="myName" value="satesh" />
